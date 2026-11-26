@@ -1,0 +1,8 @@
+{
+  "name": "MAI",
+  "short_name": "MAI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#031008",
+  "theme_color": "#031008"
+}
